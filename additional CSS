@@ -1,0 +1,15 @@
+.sidebar h2.widget-title {
+	background-color:#152F55;
+	color:#fff;
+}
+.sidebar .widget-title:after {
+	display:none;
+}
+
+#masthead {
+	border-bottom: 5px solid #E3AA24;
+}
+
+#primary .site-main article, .sidebar .widget{
+	box-shadow:none;
+}
