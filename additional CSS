@@ -81,3 +81,17 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
 #primary-menu li ul.sub-menu li.menu-item a:hover {
 		color:white!important;
 }
+
+.n2-ss-widget {
+	background-color:#152F55;
+}
+
+.showcase {
+		border-bottom: 5px solid #E3AA24;
+	padding:20px 0;
+}
+
+.n2-section-smartslider {
+	border:1px solid #E3AA24;
+	padding-left:2px;
+}
