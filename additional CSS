@@ -1,3 +1,6 @@
+#content {
+	padding-top:0px
+}
 div#nextend-accordion-menu-nextendaccordionmenuwidget-2 div.nextend-accordion-menu-inner div.title h3, .sidebar h2.widget-title {
 	background-color:#152F55;
 	color:#fff;
@@ -6,12 +9,28 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 div.nextend-accordion-me
 }
 
 .sidebar h2.widget-title {
-	border-left:20px solid white;
+	border-left:30px solid white;
 	border-right:30px solid white;
+}
+
+div#nextend-accordion-menu-nextendaccordionmenuwidget-2 dl.level1 dt a, div#nextend-accordion-menu-nextendaccordionmenuwidget-2 dl.level1 dt a span {
+	padding:5px 0!important;
+	font-size:14px!important;
+}
+
+div#nextend-accordion-menu-nextendaccordionmenuwidget-2 dl.level1 dt.nextend-nav-247 .outer .inner {
+	text-align:center!important;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+div#nextend-accordion-menu-nextendaccordionmenuwidget-2 dl.level1 dt.nextend-nav-247 a span {
+	font-size:14px!important;
 }
 
 div#nextend-accordion-menu-nextendaccordionmenuwidget-2 div.nextend-accordion-menu-inner div.title h3 {
 	padding:10px 0!important;
+	font-weight:normal;
 }
 
 div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
