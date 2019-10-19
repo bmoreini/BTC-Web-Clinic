@@ -1,8 +1,23 @@
-.sidebar h2.widget-title {
+div#nextend-accordion-menu-nextendaccordionmenuwidget-2 div.nextend-accordion-menu-inner div.title h3, .sidebar h2.widget-title {
 	background-color:#152F55;
 	color:#fff;
-	padding-top:5px;
+	padding:5px 0;
+	font-size:20px;
 }
+
+.sidebar h2.widget-title {
+	border-left:20px solid white;
+	border-right:30px solid white;
+}
+
+div#nextend-accordion-menu-nextendaccordionmenuwidget-2 div.nextend-accordion-menu-inner div.title h3 {
+	padding:10px 0!important;
+}
+
+div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
+	padding:0px!important;
+}
+
 .sidebar .widget-title:after {
 	display:none;
 }
