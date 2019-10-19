@@ -89,9 +89,19 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
 .showcase {
 		border-bottom: 5px solid #E3AA24;
 	padding:20px 0;
+	font-size:16px;
+}
+
+.showcase p {
+	width:95%;
+	display:block;
+	margin:auto;
+	padding:10px;
+	background-color:#cff;
 }
 
 .n2-section-smartslider {
 	border:1px solid #E3AA24;
 	padding-left:2px;
+	margin-bottom:20px;
 }
