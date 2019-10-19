@@ -1,6 +1,7 @@
 .sidebar h2.widget-title {
 	background-color:#152F55;
 	color:#fff;
+	padding-top:5px;
 }
 .sidebar .widget-title:after {
 	display:none;
