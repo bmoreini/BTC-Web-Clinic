@@ -87,7 +87,7 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
 }
 
 .showcase {
-		border-bottom: 5px solid #E3AA24;
+	border-top: 5px solid #E3AA24;
 	padding:20px 0;
 	font-size:16px;
 }
