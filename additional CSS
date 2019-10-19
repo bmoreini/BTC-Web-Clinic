@@ -13,3 +13,36 @@
 #primary .site-main article, .sidebar .widget{
 	box-shadow:none;
 }
+
+.alignleft {
+	clear:both;
+}
+
+.site-branding {
+	margin:5px 30px 5px 0px;
+}
+
+#site-identity {
+	margin-top:20px;
+}
+
+#main-nav ul#primary-menu li a {
+	padding:42px 25px 40px 16px;
+}
+
+#main-nav li a::after {
+	padding-left:10px;
+	right:10px;
+}
+
+#primary-menu li ul.sub-menu {
+	margin-top:5px;
+}
+
+#primary-menu li ul.sub-menu li.menu-item a {
+	padding:15px 25px 15px 16px!important;
+}
+
+#primary-menu li ul.sub-menu li.menu-item a:hover {
+		color:white!important;
+}
