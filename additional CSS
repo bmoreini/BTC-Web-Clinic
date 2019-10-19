@@ -105,3 +105,7 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
 	padding-left:2px;
 	margin-bottom:20px;
 }
+
+#breadcrumb {
+	border-top:none;
+}
