@@ -18,6 +18,10 @@ header#masthead {
 	height:80px!important;
 }
 
+#main-nav {
+	height:80px !important;
+}
+
 #content {
 	padding-top:0px
 }
@@ -49,13 +53,10 @@ p.site-title a {
 	text-transform:uppercase;
 }
 
-#main-nav {
-	height:80px !important;
-}
-
 #main-nav li a::after {
 	padding-left:10px;
 	right:10px;
+	margin-top:-15px;
 }
 
 #primary-menu li ul.sub-menu {
