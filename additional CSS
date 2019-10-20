@@ -109,3 +109,8 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
 #breadcrumb {
 	border-top:none;
 }
+
+a {
+	color:#179BD7!important;
+	font-weight:bold;
+}
