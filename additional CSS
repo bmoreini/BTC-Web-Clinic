@@ -1,6 +1,80 @@
+/* HEADER */
+
+#breadcrumb {
+	border-top:none;
+}
+
+.main-navigation ul li a, p.site-title a {
+	color:#152F55!important;
+}
+
+#primary-menu li.menu-item a {
+	padding-bottom:20px!important;
+	margin-bottom:0px!important;
+	margin-top:20px;
+	padding-top:20px
+}
+header#masthead {
+	height:80px!important;
+}
+
 #content {
 	padding-top:0px
 }
+
+#masthead {
+	border-bottom: 5px solid #E3AA24;
+}
+
+#primary .site-main article, .sidebar .widget{
+	box-shadow:none;
+}
+
+.alignleft {
+	clear:both;
+}
+
+.site-branding {
+	margin:5px 30px 5px 0px;
+}
+
+#site-identity {
+	margin-top:20px;
+}
+
+p.site-title a {
+	font-size:17pt;
+}
+#main-nav ul#primary-menu li a {
+	text-transform:uppercase;
+}
+
+#main-nav {
+	height:80px !important;
+}
+
+#main-nav li a::after {
+	padding-left:10px;
+	right:10px;
+}
+
+#primary-menu li ul.sub-menu {
+	margin-top:0px;
+}
+
+#primary-menu li ul.sub-menu li.menu-item a {
+	padding:15px 25px 15px 16px!important;
+	text-transform:none;
+  margin-top:0px;
+}
+
+#primary-menu li ul.sub-menu li.menu-item a:hover {
+		color:white!important;
+}
+
+
+/* SIDEBAR */
+
 div#nextend-accordion-menu-nextendaccordionmenuwidget-2 div.nextend-accordion-menu-inner div.title h3, .sidebar h2.widget-title {
 	background-color:#152F55;
 	color:#fff;
@@ -41,46 +115,6 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
 	display:none;
 }
 
-#masthead {
-	border-bottom: 5px solid #E3AA24;
-}
-
-#primary .site-main article, .sidebar .widget{
-	box-shadow:none;
-}
-
-.alignleft {
-	clear:both;
-}
-
-.site-branding {
-	margin:5px 30px 5px 0px;
-}
-
-#site-identity {
-	margin-top:20px;
-}
-
-#main-nav ul#primary-menu li a {
-	padding:42px 25px 40px 16px;
-}
-
-#main-nav li a::after {
-	padding-left:10px;
-	right:10px;
-}
-
-#primary-menu li ul.sub-menu {
-	margin-top:5px;
-}
-
-#primary-menu li ul.sub-menu li.menu-item a {
-	padding:15px 25px 15px 16px!important;
-}
-
-#primary-menu li ul.sub-menu li.menu-item a:hover {
-		color:white!important;
-}
 
 .n2-ss-widget {
 	background-color:#152F55;
@@ -104,10 +138,6 @@ div#nextend-accordion-menu-nextendaccordionmenuwidget-2 {
 	border:1px solid #E3AA24;
 	padding-left:2px;
 	margin-bottom:20px;
-}
-
-#breadcrumb {
-	border-top:none;
 }
 
 a {
