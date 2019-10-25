@@ -291,7 +291,7 @@ img.wp-image-1018:hover {
 	/* Meuns */
 
 #n2-ss-5 {
-	height:237px!important;
+	height:51px!important;
 }
 
 #n2-ss-5 .nextend-arrow {
@@ -300,7 +300,7 @@ img.wp-image-1018:hover {
 }
 
 .n2-ss-slider-5 .n2-ss-slide-background {
-	height:237px!important;
+	height:51px!important;
 }
 
 /* home */
@@ -376,5 +376,21 @@ img.wp-image-1018:hover {
 
 .n2-ss-slider-11 .n2-ss-slide-background {
 	height:237px!important;
+}
+
+
+/* CTSO Reports */
+
+#n2-ss-10 {
+    height:237px!important;
+}
+
+#n2-ss-10 .nextend-arrow {
+    top:120px!important;
+    background-color:transparent;
+}
+
+.n2-ss-slider-10 .n2-ss-slide-background {
+    height:237px!important;
 }
 
