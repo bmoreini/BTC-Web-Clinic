@@ -287,3 +287,94 @@ img.wp-image-1018:hover {
 .n2-ss-slider-3 .n2-ss-slide-background {
 	height:237px!important;
 }
+
+	/* Meuns */
+
+#n2-ss-5 {
+	height:237px!important;
+}
+
+#n2-ss-5 .nextend-arrow {
+	top:120px!important;
+	background-color:transparent;
+}
+
+.n2-ss-slider-5 .n2-ss-slide-background {
+	height:237px!important;
+}
+
+/* home */
+
+#n2-ss-4 {
+	height:237px!important;
+}
+
+#n2-ss-4 .nextend-arrow {
+	top:120px!important;
+	background-color:transparent;
+}
+
+.n2-ss-slider-4 .n2-ss-slide-background {
+	height:237px!important;
+}
+
+/* news */
+
+#n2-ss-7 {
+	height:237px!important;
+}
+
+#n2-ss-7 .nextend-arrow {
+	top:120px!important;
+	background-color:transparent;
+}
+
+.n2-ss-slider-7 .n2-ss-slide-background {
+	height:237px!important;
+}
+
+/* CTSO DataSheets */
+
+#n2-ss-8 {
+	height:237px!important;
+}
+
+#n2-ss-8 .nextend-arrow {
+	top:120px!important;
+	background-color:transparent;
+}
+
+.n2-ss-slider-8 .n2-ss-slide-background {
+	height:237px!important;
+}
+
+/* Advisor Resources */
+
+#n2-ss-9 {
+	height:237px!important;
+}
+
+#n2-ss-9 .nextend-arrow {
+	top:120px!important;
+	background-color:transparent;
+}
+
+.n2-ss-slider-9.n2-ss-slide-background {
+	height:237px!important;
+}
+
+/* Contact */
+
+#n2-ss-11 {
+	height:237px!important;
+}
+
+#n2-ss-11 .nextend-arrow {
+	top:120px!important;
+	background-color:transparent;
+}
+
+.n2-ss-slider-11 .n2-ss-slide-background {
+	height:237px!important;
+}
+
