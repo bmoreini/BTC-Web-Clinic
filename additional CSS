@@ -267,17 +267,16 @@ img.wp-image-1018:hover {
 
 /* Home */
 
-#n2-ss-4 {
-	height:225px!important;
+#n2-ss-13 {
+	height:256px!important;
 }
 
-#n2-ss-4 .nextend-arrow {
+#n2-ss-13 .nextend-arrow {
 	top:120px!important;
-	background-color:transparent;
 }
 
 .n2-ss-slider-4 .n2-ss-slide-background {
-	height:225px!important;
+	height:256!important;
 }
 
 /* Banner */
@@ -391,5 +390,4 @@ p.menuslider {
 .n2-ss-slider-10 .n2-ss-slide-background {
     height:237px!important;
 }
-
 
